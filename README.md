@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>mqtt</h2>
+  <h2>matt tran</h2>
  
-  <p> tech enthusiast with an interest in web3, currently studying info tech - majoring in computer science.
+  <p> tech enthusiast with an interest in web3 development, currently studying info tech - majoring in computer science.
 </div>
 
 <div id="badges" align="center">
